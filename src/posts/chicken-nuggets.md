@@ -6,11 +6,9 @@ tags:
   - chicken
   - fake-away
 ---
-
-
-Serves two
-
 Succulent chunks of chicken breast, coated in crispy breadcrumbs.
+
+Serves two.
 
 ## Ingredients
 
