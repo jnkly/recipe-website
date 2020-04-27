@@ -5,6 +5,7 @@ tags:
   - essential
   - base
   - sauce
+  - fake-away
 ---
 A simple sauce base, which is a great place to start for any curry! Make in advance, save for later.
 
